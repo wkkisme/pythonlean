@@ -1,2 +1,2 @@
 # pythonlean
-python demo
+python3 lean,Towards artificial intelligence
